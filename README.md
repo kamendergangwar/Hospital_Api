@@ -27,6 +27,7 @@ We will use postman to check the api is working or not,So download postman on yo
 ## How to USE?
 
 URL: ` http://localhost:5000/api/v1`
+Deployment Link : https://hospital-api-vr5b.onrender.com/
 
 #### End Points:
 1. `/doctor/register`(POST): Register the new doctor using name,email and password(all requireds).
@@ -92,4 +93,4 @@ URL: ` http://localhost:5000/api/v1`
 # DEPLOYEMENT
 Project already deployed on Render.com(For better exp: use Postman for accesing above Routes)
 
-Do Visit: 
+Do Visit:https://hospital-api-vr5b.onrender.com/
